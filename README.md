@@ -49,27 +49,5 @@ This is a responsive and interactive website designed to provide information abo
 
 ---
 
-## File Structure
 
-```
-study-mbbs-abroad/
-├── index.html          # Main HTML file
-├── styles.css          # CSS file for styling
-├── script.js           # JavaScript file for interactivity
-├── README.md           # Project documentation
-├── flags/              # Folder containing flag images (optional)
-│   ├── russia.png
-│   ├── uzbekistan.png
-│   ├── kazakhstan.png
-│   ├── philippines.png
-│   ├── georgia.png
-│   ├── kyrgyzstan.png
-│   └── egypt.png
-```
-
----
-
-## Live Demo
-
-You can view a live demo of the project [here](https://frontend-application-rust.vercel.app/) <!-- Add a live link if hosted -->.
 
