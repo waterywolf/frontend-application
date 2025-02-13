@@ -30,8 +30,8 @@ This is a responsive and interactive website designed to provide information abo
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/study-mbbs-abroad.git
-   cd study-mbbs-abroad
+   git clone https://github.com/waterywolf/frontend-application
+   cd frontend-application
    ```
 
 2. **Open the Project**:
