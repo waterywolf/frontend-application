@@ -71,5 +71,5 @@ study-mbbs-abroad/
 
 ## Live Demo
 
-You can view a live demo of the project [here](#) <!-- Add a live link if hosted -->.
+You can view a live demo of the project [here](#https://frontend-application-rust.vercel.app/) <!-- Add a live link if hosted -->.
 
